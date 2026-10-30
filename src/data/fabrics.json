@@ -1,0 +1,281 @@
+{
+    
+  "McKittrick Mist": {
+    "color": "Gray",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  "McKittrick Charcoal": {
+    "color": "Dark Gray",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  "McKittrick Indigo": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  "McKittrick Smoke": {
+    "color": "Grey",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  
+  "Gumtree Beach Linen": {
+    "color": "Gray",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  "Gumtree Beach Snow White": {
+    "color": "White",
+    "type": "culp",
+    "pattern": "Railroad",
+    "secondary": null
+  },
+  "Regal Time Sea": {
+    "color": "Gray",
+    "type": "sunbrella",
+    "pattern": null,
+    "secondary": null
+  },
+  
+  
+  "Peyton Navy": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Peyton Light Blue": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Peyton Pearl": {
+    "color": "Off-White",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Peyton Fawn": {
+    "color": "Green",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Peyton Slate": {
+    "color": "Gray",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  
+  
+  "Robbie Graphite": {
+    "color": "Gray",
+    "type": "culp",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  "Robbie Mink": {
+    "color": "Brown",
+    "type": "culp",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  "Robbie Aegean": {
+    "color": "Green",
+    "type": "culp",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  "Robbie Khaki": {
+    "color": "Khaki",
+    "type": "culp",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  
+  
+  "Noriko Indigo": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Woven",
+    "secondary": null
+  },
+  "Noriko Ocean": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Woven",
+    "secondary": null
+  },
+  "Noriko Sand": {
+    "color": "Beige",
+    "type": "culp",
+    "pattern": "Woven",
+    "secondary": null
+  },
+  
+  
+  "Lilavati Flax": {
+    "color": "Beige",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Lilavati Pewter": {
+    "color": "Gray",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Lilavati Mist": {
+    "color": "Blue",
+    "type": "culp",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  
+  "Canvas Navy": {
+    "color": "Blue",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Canvas Heather Beige": {
+    "color": "Beige",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Canvas Jockey Red": {
+    "color": "Red",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  
+  
+  "Cast Mist": {
+    "color": "Light Gray",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Cast Silver": {
+    "color": "Gray",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  
+  
+  "Spectrum Indigo": {
+    "color": "Blue",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Spectrum Sand": {
+    "color": "Beige",
+    "type": "sunbrella",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  
+  
+  "Fretwork Pewter": {
+    "color": "Gray",
+    "type": "sunbrella",
+    "pattern": "Fretwork",
+    "secondary": "White"
+  },
+  "Fretwork Flax": {
+    "color": "Beige",
+    "type": "sunbrella",
+    "pattern": "Fretwork",
+    "secondary": "Cream"
+  },
+  
+  
+  "Linen Natural": {
+    "color": "Beige",
+    "type": "sunbrella",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  "Linen Sesame": {
+    "color": "Cream",
+    "type": "sunbrella",
+    "pattern": "Textured",
+    "secondary": null
+  },
+  
+  
+  "Challenger Mystic White": {
+    "color": "White",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Cream": {
+    "color": "Cream",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Sky": {
+    "color": "Light Blue",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Ocean": {
+    "color": "Blue",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Deep Teal": {
+    "color": "Blue-Green",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Powder": {
+    "color": "Off-White",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Mint": {
+    "color": "Green",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Ice": {
+    "color": "White",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Steel": {
+    "color": "Gray",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  },
+  "Challenger Mocha": {
+    "color": "Brown",
+    "type": "vinyl",
+    "pattern": "Solid",
+    "secondary": null
+  }
+}

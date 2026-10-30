@@ -1,0 +1,208 @@
+{
+  "1197": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "1197-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "1197-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "1197-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "1197-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "1197-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "1197-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "1197-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "1197-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "1197-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "1197-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "1197-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "1197-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 568.88, "sku": "1197-SOFA-Culp" },
+      "vinyl": { "price": 664.88, "sku": "1197-SOFA-Vinyl" },
+      "sunbrella": { "price": 656.88, "sku": "1197-SOFA-SB" }
+    }
+  },
+  
+  
+  "1005": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "1005-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "1005-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "1005-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "1005-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "1005-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "1005-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "1005-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "1005-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "1005-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "1005-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "1005-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "1005-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 568.88, "sku": "1005-SOFA-Culp" },
+      "vinyl": { "price": 664.88, "sku": "1005-SOFA-Vinyl" },
+      "sunbrella": { "price": 656.88, "sku": "1005-SOFA-SB" }
+    }
+  },
+  
+  
+  "McKenzie": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "McKenzie-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "McKenzie-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "McKenzie-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "McKenzie-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "McKenzie-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "McKenzie-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "McKenzie-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "McKenzie-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "McKenzie-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "McKenzie-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "McKenzie-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "McKenzie-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 568.88, "sku": "McKenzie-SOFA-Culp" },
+      "vinyl": { "price": 664.88, "sku": "McKenzie-SOFA-Vinyl" },
+      "sunbrella": { "price": 656.88, "sku": "McKenzie-SOFA-SB" }
+    }
+  },
+  
+  
+  "1197love": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "1197LOVE-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "1197LOVE-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "1197LOVE-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "1197LOVE-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "1197LOVE-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "1197LOVE-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "1197LOVE-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "1197LOVE-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "1197LOVE-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "1197LOVE-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "1197LOVE-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "1197LOVE-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 439.88, "sku": "1197LOVE-LOVE-Culp" },
+      "vinyl": { "price": 489.88, "sku": "1197LOVE-LOVE-Vinyl" },
+      "sunbrella": { "price": 539.88, "sku": "1197LOVE-LOVE-SB" }
+    }
+  },
+  
+  
+  "1005love": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "1005LOVE-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "1005LOVE-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "1005LOVE-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "1005LOVE-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "1005LOVE-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "1005LOVE-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "1005LOVE-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "1005LOVE-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "1005LOVE-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "1005LOVE-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "1005LOVE-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "1005LOVE-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 439.88, "sku": "1005LOVE-LOVE-Culp" },
+      "vinyl": { "price": 489.88, "sku": "1005LOVE-LOVE-Vinyl" },
+      "sunbrella": { "price": 539.88, "sku": "1005LOVE-LOVE-SB" }
+    }
+  },
+  
+  "5660love": {
+    "cozy": {
+      "culp": { "price": 900, "sku": "5660LOVE-Cozy-Culp" },
+      "vinyl": { "price": 950, "sku": "5660LOVE-Cozy-Vinyl" },
+      "sunbrella": { "price": 988, "sku": "5660LOVE-Cozy-SB" }
+    },
+    "classic": {
+      "5": {
+        "culp": { "price": 750, "sku": "5660LOVE-CS5-Culp" },
+        "vinyl": { "price": 800, "sku": "5660LOVE-CS5-Vinyl" },
+        "sunbrella": { "price": 850, "sku": "5660LOVE-CS5-SB" }
+      },
+      "6": {
+        "culp": { "price": 786, "sku": "5660LOVE-CS6-Culp" },
+        "vinyl": { "price": 836, "sku": "5660LOVE-CS6-Vinyl" },
+        "sunbrella": { "price": 886, "sku": "5660LOVE-CS6-SB" }
+      },
+      "comfortcool": {
+        "culp": { "price": 807, "sku": "5660LOVE-CSCC-Culp" },
+        "vinyl": { "price": 888, "sku": "5660LOVE-CSCC-Vinyl" },
+        "sunbrella": { "price": 938, "sku": "5660LOVE-CSCC-SB" }
+      }
+    },
+    "sofa": {
+      "culp": { "price": 439.88, "sku": "5660LOVE-LOVE-Culp" },
+      "vinyl": { "price": 489.88, "sku": "5660LOVE-LOVE-Vinyl" },
+      "sunbrella": { "price": 539.88, "sku": "5660LOVE-LOVE-SB" }
+    }
+  },
+  
+  
+  "HAZ": {
+  "stationary": {
+    "culp": { "price": 265.00, "sku": "HAZ-Stationary-Culp" },
+    "vinyl": { "price": 275.88, "sku": "HAZ-Stationary-Vinyl" },
+    "sunbrella": { "price": 288.88, "sku": "HAZ-Stationary-SB" }
+    }
+  },
+  
+  
+  "HAZ Swivel": {
+  "stationary": {
+    "culp": { "price": 265.00, "sku": "HAZ-Stationary-Culp" },
+    "vinyl": { "price": 275.88, "sku": "HAZ-Stationary-Vinyl" },
+    "sunbrella": { "price": 288.88, "sku": "HAZ-Stationary-SB" }
+  },
+  "swivel": {
+    "culp": { "price": 285.88, "sku": "HAZ-Swivel-Culp" },
+    "vinyl": { "price": 285.88, "sku": "HAZ-Swivel-Vinyl" },
+    "sunbrella": { "price": 299.88, "sku": "HAZ-Swivel-SB" }
+        }
+    }
+}
